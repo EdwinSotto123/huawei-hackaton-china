@@ -1,0 +1,42 @@
+{
+  "vocabulary_size": 250,
+  "language": "ASL",
+  "description": "American Sign Language vocabulary for isolated sign recognition",
+  "signs": [
+    "TV", "after", "airplane", "all", "alligator", "animal", "another", "any", "apple", "arm",
+    "aunt", "awake", "backyard", "bad", "balloon", "bath", "because", "bed", "bedroom", "bee",
+    "before", "bird", "birthday", "black", "blow", "blue", "boat", "book", "boy", "brother",
+    "brown", "bug", "bye", "callonphone", "can", "candy", "car", "carrot", "cat", "cereal",
+    "chair", "cheek", "chicken", "child", "chin", "chocolate", "clean", "close", "closet",
+    "cloud", "clown", "cow", "cowboy", "cry", "cut", "cute", "dad", "dance", "dirty", "dog",
+    "doll", "donkey", "door", "down", "drawer", "drink", "drop", "dry", "dryer", "duck", "ear",
+    "eat", "elephant", "empty", "eye", "face", "fall", "farm", "fast", "feet", "find", "fine",
+    "finger", "finish", "fireman", "first", "fish", "flag", "flower", "food", "for", "frog",
+    "garbage", "giraffe", "girl", "give", "glasses", "gloves", "go", "goose", "grandma",
+    "grandpa", "grass", "green", "gum", "hair", "happy", "hat", "have", "haveto", "head", "hear",
+    "helicopter", "hello", "hen", "hide", "high", "home", "horse", "hot", "hungry", "ice",
+    "into", "jacket", "jump", "kiss", "kitty", "knee", "lamp", "later", "like", "lips", "listen",
+    "look", "loud", "mad", "make", "man", "milk", "minemy", "mitten", "mom", "moon", "morning",
+    "mouse", "mouth", "nap", "napkin", "night", "no", "nose", "not", "now", "nuts", "old", "on",
+    "open", "orange", "outside", "owl", "pajamas", "pants", "paper", "pen", "pencil", "penny",
+    "person", "pig", "pizza", "please", "police", "pool", "potty", "pretend", "pretty",
+    "puzzle", "quiet", "rain", "read", "red", "refrigerator", "ride", "room", "sad", "same",
+    "say", "scissors", "see", "shhh", "shirt", "shoe", "shower", "sick", "sleep", "sleepy",
+    "slow", "smile", "snow", "stairs", "stay", "sticky", "store", "story", "stuck", "sun",
+    "table", "talk", "taste", "thankyou", "that", "there", "think", "thirsty", "tiger", "time",
+    "tongue", "tooth", "toothbrush", "touch", "toy", "tree", "uncle", "underwear", "up",
+    "vacuum", "wait", "wake", "water", "wet", "where", "white", "who", "why", "will", "wolf",
+    "woman", "work", "write", "wrong", "yard", "yellow", "yes", "yesterday", "yourself",
+    "yucky", "zebra", "zipper"
+  ],
+  "landmark_config": {
+    "total_landmarks": 543,
+    "selected_landmarks": 118,
+    "lip_count": 40,
+    "nose_count": 4,
+    "right_eye_count": 16,
+    "left_eye_count": 16,
+    "left_hand_count": 21,
+    "right_hand_count": 21
+  }
+}
